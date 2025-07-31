@@ -3,7 +3,7 @@
 # Sentiment Analysis on Amazon Polarity Dataset
 
 > ✅ Project completed during my **Summer Training Program**
-> 🎓 Under the guidance of **Mr. Sarthak Pathak** (Trainer)  
+> 🎓 Under the guidance of **Mr. Sarthak Pathak Sir** (Trainer)  
 > 🏫 **Babu Banarasi Das University**
 
 ---
