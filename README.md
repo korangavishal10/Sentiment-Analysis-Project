@@ -2,7 +2,7 @@
 
 # Sentiment Analysis on Amazon Polarity Dataset
 
-> ✅ Project completed during my **Summer Training Program** at **Gratech**  
+> ✅ Project completed during my **Summer Training Program** 
 > 🎓 Under the guidance of **Mr. Sarthak Pathak** (Trainer)  
 > 🏫 **Babu Banarasi Das University**
 
